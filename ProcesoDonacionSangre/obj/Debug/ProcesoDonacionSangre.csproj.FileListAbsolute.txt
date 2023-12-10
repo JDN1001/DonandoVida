@@ -1,0 +1,9 @@
+C:\Users\fatim\source\repos\Banco de Sangre\ProcesoDonacionSangre\bin\Debug\ProcesoDonacionSangre.dll
+C:\Users\fatim\source\repos\Banco de Sangre\ProcesoDonacionSangre\bin\Debug\ProcesoDonacionSangre.pdb
+C:\Users\fatim\source\repos\Banco de Sangre\ProcesoDonacionSangre\bin\Debug\Datos.dll
+C:\Users\fatim\source\repos\Banco de Sangre\ProcesoDonacionSangre\bin\Debug\Datos.pdb
+C:\Users\fatim\source\repos\Banco de Sangre\ProcesoDonacionSangre\obj\Debug\ProcesoDonacionSangre.csproj.AssemblyReference.cache
+C:\Users\fatim\source\repos\Banco de Sangre\ProcesoDonacionSangre\obj\Debug\ProcesoDonacionSangre.csproj.CoreCompileInputs.cache
+C:\Users\fatim\source\repos\Banco de Sangre\ProcesoDonacionSangre\obj\Debug\ProcesoDonacionSangre.csproj.CopyComplete
+C:\Users\fatim\source\repos\Banco de Sangre\ProcesoDonacionSangre\obj\Debug\ProcesoDonacionSangre.dll
+C:\Users\fatim\source\repos\Banco de Sangre\ProcesoDonacionSangre\obj\Debug\ProcesoDonacionSangre.pdb

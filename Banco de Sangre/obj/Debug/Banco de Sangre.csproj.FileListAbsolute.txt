@@ -1,0 +1,20 @@
+C:\Users\fatim\source\repos\Banco de Sangre\Banco de Sangre\bin\Debug\Banco de Sangre.exe.config
+C:\Users\fatim\source\repos\Banco de Sangre\Banco de Sangre\bin\Debug\Banco de Sangre.exe
+C:\Users\fatim\source\repos\Banco de Sangre\Banco de Sangre\bin\Debug\Banco de Sangre.pdb
+C:\Users\fatim\source\repos\Banco de Sangre\Banco de Sangre\obj\Debug\Banco de Sangre.csproj.AssemblyReference.cache
+C:\Users\fatim\source\repos\Banco de Sangre\Banco de Sangre\obj\Debug\Banco_de_Sangre.Inicio.resources
+C:\Users\fatim\source\repos\Banco de Sangre\Banco de Sangre\obj\Debug\Banco_de_Sangre.Properties.Resources.resources
+C:\Users\fatim\source\repos\Banco de Sangre\Banco de Sangre\obj\Debug\Banco de Sangre.csproj.GenerateResource.cache
+C:\Users\fatim\source\repos\Banco de Sangre\Banco de Sangre\obj\Debug\Banco de Sangre.csproj.CoreCompileInputs.cache
+C:\Users\fatim\source\repos\Banco de Sangre\Banco de Sangre\obj\Debug\Banco de Sangre.exe
+C:\Users\fatim\source\repos\Banco de Sangre\Banco de Sangre\obj\Debug\Banco de Sangre.pdb
+C:\Users\fatim\source\repos\Banco de Sangre\Banco de Sangre\bin\Debug\ProcesoDonacionSangre.dll
+C:\Users\fatim\source\repos\Banco de Sangre\Banco de Sangre\bin\Debug\Datos.dll
+C:\Users\fatim\source\repos\Banco de Sangre\Banco de Sangre\bin\Debug\ProcesoDonacionSangre.pdb
+C:\Users\fatim\source\repos\Banco de Sangre\Banco de Sangre\bin\Debug\Datos.pdb
+C:\Users\fatim\source\repos\Banco de Sangre\Banco de Sangre\obj\Debug\Banco de Sangre.csproj.CopyComplete
+C:\Users\fatim\source\repos\Banco de Sangre\Banco de Sangre\obj\Debug\Banco_de_Sangre.VentanaPrincipal.resources
+C:\Users\fatim\source\repos\Banco de Sangre\Banco de Sangre\obj\Debug\Banco_de_Sangre.RegistraUsuario.resources
+C:\Users\fatim\source\repos\Banco de Sangre\Banco de Sangre\obj\Debug\Banco_de_Sangre.Consulta_Datos.resources
+C:\Users\fatim\source\repos\Banco de Sangre\Banco de Sangre\obj\Debug\Banco_de_Sangre.Emparejamiento.resources
+C:\Users\fatim\source\repos\Banco de Sangre\Banco de Sangre\obj\Debug\Banco_de_Sangre.Cantidad_total.resources
